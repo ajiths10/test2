@@ -31,5 +31,5 @@ console.log(FF);
  console.log(ite[2])
 
  for(var i=0;i<ite.length;i++){
-    ite[i].style.color='red'
+    ite[i].style.color='blue'
  }
